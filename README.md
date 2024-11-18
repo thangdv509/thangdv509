@@ -20,7 +20,8 @@ Notta on the way !!!!!
 - 🤙 Languages: Vietnamese and English.
 
 ### Reach me out! 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharnayan10@gmail.com) 
+[![Google Scholar Badge](https://img.shields.io/badge/GoogleScholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.vn/citations?user=Oi6ma9wAAAAJ&hl=en) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thang.dv509@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/thangdv509/])
 [![Mail Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/doanvietthang0509/])
 
