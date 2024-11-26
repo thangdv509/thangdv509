@@ -10,7 +10,7 @@ Notta on the way !!!!!
 - 💞 Passionate about research in the areas of Fintech, AI, Machine Learning, and Blockchain.
 - 1️⃣ I have a Bachelor's degree in *Computer Science* from **Hanoi University of Science and Technology, Vietnam**.
 - 2️⃣ I'm also pursuing a Bachelor's degree in *Finance* from **Banking Academy of Vietnam, Vietnam**.
-- 🔥 Interested in traveling, cooking, gym, crypto, and trading.
+- 🔥 Interested in traveling, cooking, and exploring new things.
   
 ## SKILLS 
 
