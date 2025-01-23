@@ -2,8 +2,6 @@
 
 Notta on the way !!!!!
 
-<!-- TODO: Add last video link -->
-
 ## ABOUT ME
 - 🎓 I'm currently a *Ph.D Student* in *Computer Science* at **Florida International University, USA**.
 - 🇻🇳 You can call me **Notta**.
@@ -33,3 +31,5 @@ Notta on the way !!!!!
 </div>
 
 ### Have a good day ✨
+
+P/s: Distributed SLMs for life!
