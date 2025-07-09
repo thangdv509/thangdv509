@@ -3,11 +3,11 @@
 Notta on the way !!!!!
 
 ## ABOUT ME
-- 🎓 I'm currently a *Ph.D Student* in *Computer Science* at **Florida International University, USA**.
 - 🇻🇳 You can call me **Notta**.
 - 💞 Passionate about research in the areas of Fintech, AI, Machine Learning, and Blockchain.
 - 1️⃣ I have a Bachelor's degree in *Computer Science* from **Hanoi University of Science and Technology, Vietnam**.
-- 2️⃣ I'm also pursuing a Bachelor's degree in *Finance* from **Banking Academy of Vietnam, Vietnam**.
+- 2️⃣ I have a Bachelor's degree in *Finance* from **Banking Academy of Vietnam, Vietnam**.
+- 3️⃣ I used to be a *Research Assistant* at **Florida International University, USA**.
 - 🔥 Interested in traveling, cooking, and exploring new things.
   
 ## SKILLS 
@@ -31,5 +31,3 @@ Notta on the way !!!!!
 </div>
 
 ### Have a good day ✨
-
-P/s: Distributed SLMs for life!
