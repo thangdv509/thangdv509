@@ -8,6 +8,7 @@ Notta on the way !!!!!
 - 1️⃣ I have a Bachelor's degree in *Computer Science* from **Hanoi University of Science and Technology, Vietnam**.
 - 2️⃣ I have a Bachelor's degree in *Finance* from **Banking Academy of Vietnam, Vietnam**.
 - 3️⃣ I used to be a *Research Assistant* at **Florida International University, USA**.
+- ✈️ 🇻🇳, 🇺🇸, and more. 
 - 🔥 Interested in traveling, cooking, and exploring new things.
   
 ## SKILLS 
