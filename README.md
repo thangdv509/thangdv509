@@ -6,7 +6,7 @@ Notta on the way !!!!!
 - 🇻🇳 You can call me **Notta**.
 - Currently, I am working as an AI Engineer at Secomus vietthang.doan@secomus.com
 - 💞 Passionate about research in the areas of Fintech, AI, Machine Learning, and Blockchain.
-- 🏆 I am a champion of AI Thực chiến 2025. 
+- 🏆 I am a champion of AI Thực chiến 2025 with **Converged** team and **ConnectED**. 
 - 1️⃣ I have a Bachelor's degree in *Computer Science* from **Hanoi University of Science and Technology, Vietnam**.
 - 2️⃣ I have a Bachelor's degree in *Finance* from **Banking Academy of Vietnam, Vietnam**.
 - 3️⃣ I used to be a *Research Assistant* at **Florida International University, USA**.
