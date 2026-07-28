@@ -3,8 +3,7 @@
 Notta on the way !!!!!
 
 ## ABOUT ME
-- Nickname: Notta, Chú Cún Hồng
-- 🇻🇳 You can call me **Notta**.
+- 🇻🇳 You can call me **Notta** or **Chú Cún Hồng**.
 - Currently, I am working as an AI Engineer at Secomus vietthang.doan@secomus.com
 - 💞 Passionate about research in the areas of Fintech, AI, Machine Learning, and Blockchain.
 - 🏆 I am a champion of AI Thực chiến 2025 with **Converged** team and **ConnectED**. 
